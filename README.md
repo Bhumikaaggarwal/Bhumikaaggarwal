@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 I am passionate software engineering student who wants to do something different from others and shine out
 <h1 align="center">Hi 👋, I'm Bhumika Aggarwal</h1>
 <h3 align="center">A passionate software engineering student from India</h3>
-<img src="![image](https://github.com/user-attachments/assets/e72e99ae-8c4b-4b9c-94c4-347eb6d1972d)" alt="coding" width="50px"></img>
+<img src="![image](https://github.com/user-attachments/assets/97d38528-eb71-41a1-b037-eee2149f48f4)" alt="coding" width="50px"></img>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikaaggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikaaggarwal" /> </p>
