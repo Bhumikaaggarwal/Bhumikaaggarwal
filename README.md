@@ -1,6 +1,4 @@
-Passionate Engineer
-<img src="[![image](https://github.com/user-attachments/assets/a07abe23-cac3-4974-b35d-e1654b0c46df)
-](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDesign-and-Code&psig=AOvVaw25RKm9S6AHPqHYsPM_niSy&ust=1722446487139000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCy-J-jz4cDFQAAAAAdAAAAABAJ)" alt="banner">
+<img src="https://www.google.com/search?sca_esv=e3ff2cacd83f1ace&rlz=1C1CHBD_en-GBIN1022IN1022&sxsrf=ADLYWIK70wAdGPknb4z8mRy9NdHHyliKLw:1722360079560&q=banner+for+github+profile&udm=2&fbs=AEQNm0CFDpRHaDHkXm_YXueHTfHtrgIXUKlluACpCix4T5ZoUSz6e3GWv4zN_09JkP2cR-DwqD-ER1CSuTjXzdXNKT0Wma9mNyum3oWLzhs1xt8u5GJdCx58_F0ZS8HPQnKQz9WgsdJpThHV1BWzodOO8E_BatEjT0dIL3U5ECu78v7bqTooU6tI88M-Qrvjqh0VwmagWSscc3JaO_0BmvDToqXs55uEqQ&sa=X&sqi=2&ved=2ahUKEwjKwN6lo8-HAxU4UGcHHX14EfkQtKgLegQIFxAB&biw=1536&bih=695&dpr=1.25#vhid=FMAj995LO5bT6M&vssid=mosaic" alt="banner" />
 ## Hi there 👋
 
 <!--
