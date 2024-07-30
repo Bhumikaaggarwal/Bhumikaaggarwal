@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 I am passionate software engineering student who wants to do something different from others and shine out
 <h1 align="center">Hi 👋, I'm Bhumika Aggarwal</h1>
 <h3 align="center">A passionate software engineering student from India</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="200px" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikaaggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikaaggarwal" /> </p>
 
@@ -33,6 +32,8 @@ I am passionate software engineering student who wants to do something different
 - 📫 How to reach me **bhumika7525@gmail.com**
 
 - ⚡ Fun fact **I have a very dirty mind.**
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="200px" align="right"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
