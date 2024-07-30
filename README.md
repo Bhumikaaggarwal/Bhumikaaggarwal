@@ -1,5 +1,3 @@
-<img src="[https://www.google.com/search?sca_esv=e3ff2cacd83f1ace&rlz=1C1CHBD_en-GBIN1022IN1022&sxsrf=ADLYWIK70wAdGPknb4z8mRy9NdHHyliKLw:1722360079560&q=banner+for+github+profile&udm=2&fbs=AEQNm0CFDpRHaDHkXm_YXueHTfHtrgIXUKlluACpCix4T5ZoUSz6e3GWv4zN_09JkP2cR-DwqD-ER1CSuTjXzdXNKT0Wma9mNyum3oWLzhs1xt8u5GJdCx58_F0ZS8HPQnKQz9WgsdJpThHV1BWzodOO8E_BatEjT0dIL3U5ECu78v7bqTooU6tI88M-Qrvjqh0VwmagWSscc3JaO_0BmvDToqXs55uEqQ&sa=X&sqi=2&ved=2ahUKEwjKwN6lo8-HAxU4UGcHHX14EfkQtKgLegQIFxAB&biw=1536&bih=695&dpr=1.25#vhid=FMAj995LO5bT6M&vssid=mosaic](https://github.com/Design-and-Code)" alt="banner" />
-
 <!--
 **Bhumikaaggarwal/Bhumikaaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,8 +20,8 @@ I am passionate software engineering student who wants to do something different
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikaaggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikaaggarwal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhumikaaggarwal" alt="bhumikaaggarwal" /></a> </p>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0-rEU8kelFMXQ1xk4vSgxH&ust=1722447171568000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiZ0eOlz4cDFQAAAAAdAAAAABAE" alt="image" width="50px"/>
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhumikaaggarwal" alt="bhumikaaggarwal" /></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio**
 
