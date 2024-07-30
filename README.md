@@ -33,7 +33,7 @@ I am passionate software engineering student who wants to do something different
 
 - ⚡ Fun fact **I have a very dirty mind.**
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="500px" align="right"/>
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="500px" align="right" margin-top="100px"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
