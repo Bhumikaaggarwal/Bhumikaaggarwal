@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 I am passionate software engineering student who wants to do something different from others and shine out
 <h1 align="center">Hi 👋, I'm Bhumika Aggarwal</h1>
 <h3 align="center">A passionate software engineering student from India</h3>
-<!-- <img alt="coding" width="50px" src="![image](https://github.com/user-attachments/assets/e72e99ae-8c4b-4b9c-94c4-347eb6d1972d)"></img> -->
+<img src="![image](https://github.com/user-attachments/assets/e72e99ae-8c4b-4b9c-94c4-347eb6d1972d)" alt="coding" width="50px"></img>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumikaaggarwal&label=Profile%20views&color=0e75b6&style=flat" alt="bhumikaaggarwal" /> </p>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0-rEU8kelFMXQ1xk4vSgxH&ust=1722447171568000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiZ0eOlz4cDFQAAAAAdAAAAABAE" alt="image" width="50px"/>
+
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhumikaaggarwal" alt="bhumikaaggarwal" /></a> </p>
 
 - 🔭 I’m currently working on **My Portfolio**
