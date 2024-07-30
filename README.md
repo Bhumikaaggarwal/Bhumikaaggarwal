@@ -1,5 +1,5 @@
-<img src = "https://github.com/user-attachments/assets/8f7b9073-12d2-48df-ad19-48f495ab0caf
-" alt="" />
+<img src = "[https://github.com/user-attachments/assets/8f7b9073-12d2-48df-ad19-48f495ab0caf
+](https://miro.medium.com/v2/resize:fit:840/1*b21FyqUbowHYAOQDXH0tDw.jpeg)" alt="" />
 
 ## Hi there 👋
 
