@@ -1,4 +1,5 @@
-<img src = "https://www.canva.com/design/DAGMcOanzto/8kIIcRBSVaeiRdCzZXjiTg/edit" alt="" />
+<img src = "https://github.com/user-attachments/assets/8f7b9073-12d2-48df-ad19-48f495ab0caf
+" alt="" />
 
 ## Hi there 👋
 
