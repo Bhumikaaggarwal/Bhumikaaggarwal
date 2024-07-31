@@ -21,12 +21,11 @@ I am passionate software engineering student who wants to do something different
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhumikaaggarwal" alt="bhumikaaggarwal" /></a> </p>
 
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="500px" align="right" margin-top="10px"/>
+
 - 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **Nodejs, MongoDB**
-
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="500px" align="right" margin-top="10px"/>
 
 - 👯 I’m looking to collaborate on **wedding collaborators website**
 
