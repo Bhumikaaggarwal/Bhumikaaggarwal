@@ -25,6 +25,9 @@ I am passionate software engineering student who wants to do something different
 
 - 🌱 I’m currently learning **Nodejs, MongoDB**
 
+
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="500px" align="right" margin-top="10px"/>
+
 - 👯 I’m looking to collaborate on **wedding collaborators website**
 
 - 💬 Ask me about **Dsa in c++,c,python and front-end**
@@ -32,8 +35,6 @@ I am passionate software engineering student who wants to do something different
 - 📫 How to reach me **bhumika7525@gmail.com**
 
 - ⚡ Fun fact **I have a very dirty mind.**
-
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="500px" align="right" margin-top="10px"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
