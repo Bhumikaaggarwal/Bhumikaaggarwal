@@ -47,22 +47,19 @@
 
 ## 📌 Projects
 
-### 🔹 Payment Management System
-- Backend system using **Java, Spring Boot, MySQL**
-- Designed APIs for secure transaction handling
-- Focused on performance and scalability  
+### 🔹 Scalable E-Commerce Backend System
+- Designed and developed **REST APIs** for user, product, and order management  
+- Built backend using **Spring Boot + PostgreSQL** with optimized query performance  
+- Implemented **Spring Security** for authentication and authorization  
+- Ensured scalability and efficient handling of concurrent users  
 
 ---
 
-### 🔹 Automation Workflow Engine
-- Built API-based workflow automation system  
-- Integrated external services and optimized processes  
-
----
-
-### 🔹 AI Task Automation Assistant
-- Developed using **Python + LLM APIs**
-- Automated multi-step workflows  
+### 🔹 Microservices User Management System
+- Developed **microservices-based architecture** for independent service deployment and scaling  
+- Integrated **MongoDB** for flexible and efficient data handling  
+- Reduced system coupling and improved maintainability of services  
+- Designed APIs enabling seamless communication between services   
 
 ---
 
